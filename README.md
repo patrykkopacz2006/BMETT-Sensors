@@ -1,4 +1,4 @@
-# ESP32 Research Streaming Code
+# BMETT Streaming and Data Acquisition Code
 
 This repository contains the ESP32 firmware used to acquire and stream data from multiple sensors over BLE.
 
